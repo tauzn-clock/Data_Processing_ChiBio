@@ -3,17 +3,7 @@
 from pathlib import Path
 
 FILE_PATH = str(Path(__file__).absolute().parents[0])
-#Have a sudden dip in growth rate
-FILE_NAME = "/2021-01-22 11_40_02_M0_data.csv"
-#FILE_NAME = "/2021-01-22 11_40_04_M1_data.csv"
-FILE_NAME = "/2021-01-22 11_40_06_M2_data.csv"
-#FILE_NAME = "/2021-01-22 11_40_07_M3_data.csv"
-
-#Comparatively constant growth ratee
-#FILE_NAME = "/2021-01-22 15_49_55_M0_data.csv"
-#FILE_NAME = "/2021-01-22 15_50_37_M1_data.csv"
-#FILE_NAME = "/2021-01-22 15_51_13_M2_data.csv"
-#FILE_NAME = "/2021-01-22 15_51_33_M3_data.csv"
+FILE_NAME = #FILE NAME GOES HERE
 
 import math
 import numpy as np
